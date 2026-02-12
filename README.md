@@ -24,7 +24,7 @@ This project focuses on analyzing e-commerce transactional data to understand cu
 Customer_segmentation-Revenue-Analysis
 |
 |---Data/
-   |--Cleaned_dataset.xlsb
+   |--Sample_Cleaned_dataset.xlsb
 |---DashBoard/
    |--Customer_Segmentation_Dashboard.pbix
 |---Screenshot/
