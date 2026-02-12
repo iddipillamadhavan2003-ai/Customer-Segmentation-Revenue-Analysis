@@ -20,15 +20,21 @@ This project focuses on analyzing e-commerce transactional data to understand cu
 
 ---
 
-## 📂 Project Structure
-Customer_segmentation-Revenue-Analysis
-|
-|---Data/
-   |--Sample_Cleaned_dataset.xlsb
-|---DashBoard/
-   |--Customer_Segmentation_Dashboard.pbix
-|---Screenshot/
-   |--dashboard_preview.png
-   |--dashboard_preview2.png
-   |--dashboard_preview3.png
+## Project Structure
+
+Customer-Segmentation-Revenue-Analysis
+
+├── Data/
+
+│ └── sample_dataset.zip
+
+├── DashBoard/
+
+│ └── Customer_Segmentation_Dashboard.pbix
+
+├── Screenshot/
+
+│ └── dashboard_preview.png
+
+
 
